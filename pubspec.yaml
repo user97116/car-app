@@ -19,16 +19,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  sqflite: ^1.1.6+3
-  http: any
-  image_picker: ^0.6.0+17
-  path: ^1.6.2
-  path_provider: ^1.1.2
-  bloc_pattern: ^2.2.1
-  rxdart: ^0.22.1+1
-  photofilters: ^1.0.5
-  font_awesome_flutter: ^8.5.0
-  smooth_star_rating: 1.0.3
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -53,14 +43,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - images/ui/
-    - images/ui/man/
-    - images/ui/girl/
-    - images/ui/coffee/
-    - images/ui/house/
     - images/ui/png/car/
-    - images/ui/cactus/
-    - images/nonstop.png
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
